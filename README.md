@@ -14,5 +14,5 @@ A brand-new trader mob focused on spellcasting accessories and basic magical ess
 * **Stalwart (Tier 3)** Grants heavy damage and knockback reduction at the cost of heavy movement speed reduction. Stalwart V makes you a temporary immovable object incapable of being killed by normal means.
 
 ## Future Plans
-* **Astrologer & Lunaloger Armor** Brand-new Abjuration and Conjuration armor sets styled around the Sun and Moon.
+* **Astrologer & Selenologer Armor** Brand-new Abjuration and Conjuration armor sets styled around the Sun and Moon, respectively.
 * **Enchanter Familiar** Hire your own spellcasting buddy to help you in battle!
